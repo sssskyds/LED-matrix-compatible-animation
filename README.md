@@ -1,10 +1,6 @@
-# LED-matrix-compatible-animation
-Creating the LED-Matrix compatible from zero 
-
-
 # LED Matrix Compatible Animation
 
-Welcome to the LED Matrix Compatible Animation repository! This project is all about creating animations compatible with a 16x16 LED matrix.
+Welcome to the LED Matrix Compatible Animation repository! This project is all about creating animations compatible with LED matrix.
 
 ## Overview
 
